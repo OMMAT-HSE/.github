@@ -1,5 +1,5 @@
-# OMMAT-HSE
 ![логотип команды OMMAT](https://github.com/OMMAT-HSE/.github/blob/master/images/ommat_logo.jpg)
+# OMMAT-HSE
 
 OMMAT - команда студентов магистратуры НИУ ВШЭ Пермь по направлению "Бизнес-аналитика". Команда реализует проект по разработке онлайн-калькулятора.
 
