@@ -22,10 +22,12 @@ OMMAT - команда студентов магистратуры НИУ ВШЭ
 # Ресурсы проекта
 1. [Репозиторий](https://github.com/OMMAT-HSE/algoscalc-docs) с документацией проекта, в том числе:
    - [UML-модель](https://github.com/OMMAT-HSE/algoscalc-docs/tree/Prod/uml-model)
-2. [Репозиторий](https://github.com/OMMAT-HSE/algoscalc-archi) с ArchiMate-моделью, которая автоматически собирается в HTML-отчет и публикуется на [ресурсе](https://archi.ommat.ru/).
+2. [Репозиторий](https://github.com/OMMAT-HSE/algoscalc-archi) с ArchiMate-моделью, которая автоматически собирается в HTML-отчет и публикуется.
+   - [ArchiMate-модель](https://archi.ommat.ru/) онлайн.
 3. [Репозиторий](https://github.com/OMMAT-HSE/algoscalc-back) с исходным кодом для серверной части онлайн-калькулятора.
     - [Тестовый контур](https://test.ommat.ru/api/algorithms) серверной части онлайн-калькулятора.
     - [Документация API](https://swagger.ommat.ru/docs) серверной части онлайн-калькулятора.
+    - [Документация исходного кода](https://backend-docs.ommat.ru/docs) серверной части онлайн-калькулятора.
     - [Продуктовый контур](https://prod.ommat.ru/api/Test) серверной части онлайн-калькулятора.
 4. [Репозиторий](https://github.com/OMMAT-HSE/algoscalc-front) с исходным кодом для клиентской части онлайн-калькулятора.
     - [Тестовый контур](https://test.ommat.ru/) клиентской части онлайн-калькулятора.
